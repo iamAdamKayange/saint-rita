@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257863308016",
+    "project_id": "saintritawakashia",
+    "storage_bucket": "saintritawakashia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257863308016:android:d6b138917482aae1f72835",
+        "android_client_info": {
+          "package_name": "com.adamkayange.novenasaintrita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Cn19HyeNKNHyA3wo1of_UQG9AJHYn3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
